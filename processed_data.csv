@@ -1,0 +1,1001 @@
+ProductID,ProductName,ExpiryDate,QuantityInStock,HistoricalSales,DaysUntilExpiry,Category_Bakery,Category_Dairy,Category_Meat,Category_Produce
+604f5acc,Chicken Breast,2025-05-03,62,328,22,False,False,True,False
+77884d8d,Apples,2025-04-25,19,51,14,False,False,False,True
+1ee11bfc,Mushrooms,2025-04-11,25,449,0,False,False,False,True
+5e39f5ad,Apples,2025-05-01,7,245,20,False,False,False,True
+c0de73af,Oranges,2025-04-16,83,243,5,False,False,False,True
+f68a2149,Carrots,2025-05-01,46,469,20,False,False,False,True
+38c11840,Onions,2025-04-27,1,154,16,False,False,False,True
+78cce4db,Carrots,2025-04-18,74,169,7,False,False,False,True
+8935a562,Mushrooms,2025-04-15,27,495,4,False,False,False,True
+ed56dcb6,Tomatoes,2025-05-05,6,377,24,False,False,False,True
+9add2dd5,Onions,2025-04-23,17,128,12,False,False,False,True
+12d6c488,Bananas,2025-04-17,83,395,6,False,False,False,True
+408dfe86,Milk,2025-05-03,47,431,22,False,True,False,False
+d7536716,Chicken Breast,2025-04-30,29,120,19,False,False,True,False
+e5e0ebf6,Ground Beef,2025-04-20,38,138,9,False,False,True,False
+a55e762d,Spinach,2025-05-02,37,302,21,False,False,False,True
+b2d935c4,Yogurt,2025-05-10,54,331,29,False,True,False,False
+889b5712,Mushrooms,2025-04-24,70,332,13,False,False,False,True
+11daa9a0,Bread,2025-04-13,60,151,2,True,False,False,False
+91d91525,Lettuce,2025-04-29,22,228,18,False,False,False,True
+25f2e4a4,Carrots,2025-05-10,11,422,29,False,False,False,True
+022d05db,Blueberries,2025-04-20,12,303,9,False,False,False,True
+48ef5512,Carrots,2025-04-23,19,166,12,False,False,False,True
+8cdd8f3e,Yogurt,2025-04-19,38,497,8,False,True,False,False
+2a978550,Yogurt,2025-04-16,70,309,5,False,True,False,False
+4c3b4023,Milk,2025-05-06,96,122,25,False,True,False,False
+9b2ee740,Apples,2025-04-17,99,374,6,False,False,False,True
+4d0449ce,Onions,2025-04-16,54,140,5,False,False,False,True
+209502a9,Lettuce,2025-05-02,55,233,21,False,False,False,True
+13854878,Bread,2025-04-29,64,364,18,True,False,False,False
+cc12f3d3,Butter,2025-05-08,37,127,27,False,True,False,False
+bc29cf7c,Ground Beef,2025-04-15,71,413,4,False,False,True,False
+20a963f0,Cheese,2025-05-05,50,428,24,False,True,False,False
+c0233cd8,Butter,2025-05-03,100,236,22,False,True,False,False
+bb2a81c1,Strawberries,2025-04-14,90,339,3,False,False,False,True
+973a8aea,Apples,2025-04-20,11,256,9,False,False,False,True
+df37ec4e,Oranges,2025-04-21,50,388,10,False,False,False,True
+6e91a33d,Cheese,2025-04-29,86,419,18,False,True,False,False
+82620312,Apples,2025-04-18,34,301,7,False,False,False,True
+6ac74cf0,Chicken Breast,2025-04-24,97,142,13,False,False,True,False
+ea4d571f,Milk,2025-04-16,75,346,5,False,True,False,False
+b938db0a,Strawberries,2025-05-04,95,479,23,False,False,False,True
+306a0442,Bananas,2025-05-02,82,381,21,False,False,False,True
+1bdb2cdc,Apples,2025-04-28,65,71,17,False,False,False,True
+80aa1086,Oranges,2025-04-21,97,329,10,False,False,False,True
+aeb27161,Bread,2025-05-03,70,435,22,True,False,False,False
+0b60ad9a,Cheese,2025-05-07,54,89,26,False,True,False,False
+8d00d613,Carrots,2025-04-28,32,328,17,False,False,False,True
+034804bd,Bread,2025-05-08,50,321,27,True,False,False,False
+391e61e4,Potatoes,2025-04-28,25,276,17,False,False,False,True
+f1c8fcd9,Lettuce,2025-04-14,3,473,3,False,False,False,True
+f054a9b3,Ground Beef,2025-04-24,79,450,13,False,False,True,False
+315274ba,Mushrooms,2025-05-03,35,302,22,False,False,False,True
+72d9b045,Chicken Breast,2025-04-12,1,342,1,False,False,True,False
+9d45a1d5,Bananas,2025-04-28,74,323,17,False,False,False,True
+2c9bb7ab,Strawberries,2025-05-07,93,213,26,False,False,False,True
+53ad79e7,Strawberries,2025-04-24,53,330,13,False,False,False,True
+fc8443f0,Lettuce,2025-04-29,39,82,18,False,False,False,True
+18d92b4f,Butter,2025-05-08,85,411,27,False,True,False,False
+af9a05c6,Apples,2025-05-02,13,253,21,False,False,False,True
+c257a687,Potatoes,2025-04-25,87,174,14,False,False,False,True
+f331a7b6,Blueberries,2025-04-28,41,294,17,False,False,False,True
+d6d5f7df,Butter,2025-04-24,68,51,13,False,True,False,False
+5e9476bc,Butter,2025-04-29,65,495,18,False,True,False,False
+3f47708d,Chicken Breast,2025-04-19,3,404,8,False,False,True,False
+f5babbb1,Ground Beef,2025-04-30,45,496,19,False,False,True,False
+13ff19a8,Ground Beef,2025-05-06,93,315,25,False,False,True,False
+30fcdbba,Mushrooms,2025-05-01,12,462,20,False,False,False,True
+0aeee064,Lettuce,2025-05-07,86,253,26,False,False,False,True
+3a560325,Onions,2025-04-30,50,119,19,False,False,False,True
+17ddc97a,Bananas,2025-05-04,30,243,23,False,False,False,True
+edf5410f,Tomatoes,2025-04-16,37,84,5,False,False,False,True
+2efbead4,Mushrooms,2025-04-25,56,371,14,False,False,False,True
+f4c9c0e8,Onions,2025-05-07,77,245,26,False,False,False,True
+de98f128,Onions,2025-05-10,14,419,29,False,False,False,True
+0f6308e0,Apples,2025-05-04,86,175,23,False,False,False,True
+56c24a99,Oranges,2025-04-16,21,106,5,False,False,False,True
+ee3cb9ae,Bread,2025-05-06,2,368,25,True,False,False,False
+a191a831,Ground Beef,2025-05-05,6,251,24,False,False,True,False
+fbeed1bf,Cheese,2025-05-08,98,433,27,False,True,False,False
+9bc5809c,Milk,2025-05-06,37,296,25,False,True,False,False
+b3aa2eec,Bread,2025-04-23,55,143,12,True,False,False,False
+0ceea8e0,Bread,2025-04-14,61,98,3,True,False,False,False
+85ee83a5,Spinach,2025-05-09,93,51,28,False,False,False,True
+662ab451,Carrots,2025-05-08,29,462,27,False,False,False,True
+f89711bd,Ground Beef,2025-04-13,25,355,2,False,False,True,False
+23d42d56,Apples,2025-04-20,36,421,9,False,False,False,True
+9d1d4e70,Blueberries,2025-05-03,42,273,22,False,False,False,True
+08331330,Ground Beef,2025-04-23,2,454,12,False,False,True,False
+b326c3e5,Bananas,2025-04-22,20,224,11,False,False,False,True
+7cf027f7,Ground Beef,2025-04-18,22,443,7,False,False,True,False
+51fe2529,Cheese,2025-04-11,64,264,0,False,True,False,False
+6f6e7212,Yogurt,2025-05-09,69,209,28,False,True,False,False
+ce83452f,Strawberries,2025-04-19,94,336,8,False,False,False,True
+6f3bede4,Mushrooms,2025-04-21,64,291,10,False,False,False,True
+849d0764,Blueberries,2025-05-05,1,81,24,False,False,False,True
+6f1f67b7,Tomatoes,2025-04-20,78,279,9,False,False,False,True
+fef517f9,Tomatoes,2025-05-07,36,476,26,False,False,False,True
+d224dc97,Butter,2025-04-13,1,330,2,False,True,False,False
+869b9b40,Spinach,2025-05-01,24,139,20,False,False,False,True
+79866063,Milk,2025-04-14,81,355,3,False,True,False,False
+ffc660e9,Apples,2025-04-25,57,440,14,False,False,False,True
+a40e480f,Apples,2025-04-13,44,499,2,False,False,False,True
+057b672f,Milk,2025-04-12,9,213,1,False,True,False,False
+e7600ef3,Spinach,2025-05-08,37,353,27,False,False,False,True
+5a9c5cdb,Spinach,2025-05-02,38,466,21,False,False,False,True
+814e6569,Bread,2025-04-15,33,168,4,True,False,False,False
+4fe7185b,Bananas,2025-04-22,71,89,11,False,False,False,True
+b9fee9c9,Chicken Breast,2025-04-25,98,59,14,False,False,True,False
+9a936742,Strawberries,2025-04-28,81,429,17,False,False,False,True
+e9ceeb5b,Oranges,2025-04-13,33,123,2,False,False,False,True
+fca1085a,Carrots,2025-05-05,92,286,24,False,False,False,True
+fc5c4ffa,Tomatoes,2025-04-12,16,288,1,False,False,False,True
+1def29ee,Spinach,2025-04-28,100,451,17,False,False,False,True
+99f05c54,Ground Beef,2025-05-02,74,186,21,False,False,True,False
+2b4bc933,Milk,2025-05-05,50,325,24,False,True,False,False
+c9c9b083,Apples,2025-04-20,2,158,9,False,False,False,True
+26a2ef5b,Ground Beef,2025-05-10,34,102,29,False,False,True,False
+90268d28,Ground Beef,2025-05-08,97,351,27,False,False,True,False
+770578fd,Yogurt,2025-04-14,64,125,3,False,True,False,False
+229016f1,Chicken Breast,2025-04-30,39,304,19,False,False,True,False
+033a2424,Yogurt,2025-05-03,17,409,22,False,True,False,False
+b32ebce0,Oranges,2025-04-30,67,288,19,False,False,False,True
+41965ef4,Cheese,2025-04-27,64,491,16,False,True,False,False
+7c7e9d13,Apples,2025-04-26,89,483,15,False,False,False,True
+5e965b89,Potatoes,2025-04-25,69,289,14,False,False,False,True
+904ab886,Bananas,2025-05-08,71,437,27,False,False,False,True
+595949da,Milk,2025-05-01,9,338,20,False,True,False,False
+6de98655,Oranges,2025-05-06,7,232,25,False,False,False,True
+4500727f,Mushrooms,2025-04-18,43,105,7,False,False,False,True
+f58add02,Milk,2025-04-22,18,378,11,False,True,False,False
+5c2fe660,Bread,2025-04-24,45,291,13,True,False,False,False
+d3bacfc5,Onions,2025-05-04,69,320,23,False,False,False,True
+c92e7cf8,Carrots,2025-04-24,65,138,13,False,False,False,True
+f4ba69a1,Cheese,2025-04-15,98,249,4,False,True,False,False
+d45af65c,Spinach,2025-05-07,51,484,26,False,False,False,True
+b9808c7a,Chicken Breast,2025-04-28,40,354,17,False,False,True,False
+fa2bf019,Spinach,2025-05-02,90,453,21,False,False,False,True
+5787b520,Yogurt,2025-05-05,31,461,24,False,True,False,False
+931f73ef,Blueberries,2025-05-02,37,57,21,False,False,False,True
+40aacb9c,Bread,2025-04-13,67,385,2,True,False,False,False
+e54b9af2,Strawberries,2025-04-20,68,357,9,False,False,False,True
+e193bc5f,Mushrooms,2025-05-10,67,78,29,False,False,False,True
+171ee106,Tomatoes,2025-04-23,0,436,12,False,False,False,True
+b687dc16,Ground Beef,2025-05-01,86,304,20,False,False,True,False
+daa13098,Spinach,2025-04-24,1,96,13,False,False,False,True
+a30e4f4e,Cheese,2025-05-04,53,351,23,False,True,False,False
+f00493f5,Oranges,2025-04-27,69,164,16,False,False,False,True
+41e0ef28,Apples,2025-04-21,35,426,10,False,False,False,True
+cae52f21,Lettuce,2025-05-05,83,253,24,False,False,False,True
+8fffbef0,Bread,2025-05-04,87,263,23,True,False,False,False
+a7864a7b,Ground Beef,2025-05-10,20,350,29,False,False,True,False
+fb2f7214,Potatoes,2025-05-10,24,231,29,False,False,False,True
+d25319e1,Bread,2025-04-27,55,172,16,True,False,False,False
+ef2fb071,Milk,2025-05-10,87,127,29,False,True,False,False
+64bde7ce,Onions,2025-04-21,41,481,10,False,False,False,True
+9ac1cab8,Potatoes,2025-05-03,72,404,22,False,False,False,True
+76962555,Carrots,2025-05-02,33,430,21,False,False,False,True
+c2e5d260,Blueberries,2025-04-17,15,389,6,False,False,False,True
+8c16f59d,Yogurt,2025-04-13,59,419,2,False,True,False,False
+2370f274,Apples,2025-04-15,80,294,4,False,False,False,True
+6655c541,Onions,2025-04-19,75,91,8,False,False,False,True
+c3c5e6e7,Yogurt,2025-04-15,23,258,4,False,True,False,False
+d64df8e2,Carrots,2025-05-06,65,232,25,False,False,False,True
+526396d0,Potatoes,2025-04-17,15,124,6,False,False,False,True
+5a6d54aa,Apples,2025-04-26,35,249,15,False,False,False,True
+8cfede84,Onions,2025-04-29,31,300,18,False,False,False,True
+fcaa0c6f,Potatoes,2025-04-14,39,115,3,False,False,False,True
+2b21cf1c,Milk,2025-04-24,73,94,13,False,True,False,False
+87e96cef,Chicken Breast,2025-04-11,87,433,0,False,False,True,False
+b6a04fd8,Oranges,2025-05-07,33,401,26,False,False,False,True
+801a4f27,Lettuce,2025-04-14,19,430,3,False,False,False,True
+311295bc,Butter,2025-04-16,81,394,5,False,True,False,False
+be1d7121,Milk,2025-04-15,18,139,4,False,True,False,False
+81afbc48,Bananas,2025-04-24,81,494,13,False,False,False,True
+7f9c407c,Cheese,2025-05-04,11,55,23,False,True,False,False
+3e8ef6b0,Spinach,2025-04-11,95,152,0,False,False,False,True
+ce0d14a4,Spinach,2025-04-12,35,96,1,False,False,False,True
+2d50aece,Yogurt,2025-04-14,31,72,3,False,True,False,False
+8fe4034b,Lettuce,2025-04-13,16,169,2,False,False,False,True
+a7915dbf,Strawberries,2025-04-26,27,278,15,False,False,False,True
+2f8f72ba,Spinach,2025-05-10,72,493,29,False,False,False,True
+1724516a,Bananas,2025-05-04,30,251,23,False,False,False,True
+5544cbf1,Blueberries,2025-05-05,68,283,24,False,False,False,True
+259bd840,Cheese,2025-05-03,80,203,22,False,True,False,False
+2a0abbd1,Milk,2025-04-22,25,101,11,False,True,False,False
+a3f2778f,Bread,2025-04-19,54,184,8,True,False,False,False
+e3be0d6a,Lettuce,2025-04-17,61,322,6,False,False,False,True
+bdc2b61e,Blueberries,2025-04-30,67,299,19,False,False,False,True
+c5f9764b,Blueberries,2025-04-21,25,287,10,False,False,False,True
+aa2b1fd6,Yogurt,2025-05-01,36,324,20,False,True,False,False
+45273c17,Apples,2025-04-20,48,198,9,False,False,False,True
+6aaa6a4c,Apples,2025-04-13,67,141,2,False,False,False,True
+d64fe5be,Apples,2025-04-18,37,416,7,False,False,False,True
+2062ea84,Strawberries,2025-04-25,71,141,14,False,False,False,True
+3ebc9e3e,Oranges,2025-04-22,16,374,11,False,False,False,True
+d8cd5ed0,Carrots,2025-04-26,82,387,15,False,False,False,True
+bc31a5a1,Strawberries,2025-05-05,83,476,24,False,False,False,True
+65c6ba45,Mushrooms,2025-04-24,38,175,13,False,False,False,True
+40e6fb6c,Apples,2025-04-15,99,492,4,False,False,False,True
+cba6e0ee,Blueberries,2025-04-11,78,334,0,False,False,False,True
+8856192b,Strawberries,2025-04-27,52,439,16,False,False,False,True
+3a3c5927,Carrots,2025-05-02,19,323,21,False,False,False,True
+5097eb3d,Strawberries,2025-04-13,46,489,2,False,False,False,True
+cc0f9b75,Carrots,2025-04-20,75,428,9,False,False,False,True
+964d82a8,Mushrooms,2025-04-15,65,360,4,False,False,False,True
+0ae1218e,Blueberries,2025-04-25,36,90,14,False,False,False,True
+7ae922e5,Milk,2025-05-01,94,469,20,False,True,False,False
+3e7c2613,Blueberries,2025-05-06,42,107,25,False,False,False,True
+4907a1e3,Chicken Breast,2025-04-11,85,123,0,False,False,True,False
+cc88023a,Bananas,2025-04-12,59,100,1,False,False,False,True
+b1ff1e90,Carrots,2025-04-13,25,477,2,False,False,False,True
+503bf395,Tomatoes,2025-04-14,58,219,3,False,False,False,True
+d433f4de,Oranges,2025-04-12,32,439,1,False,False,False,True
+9aecf063,Ground Beef,2025-05-01,51,118,20,False,False,True,False
+f02225a7,Chicken Breast,2025-04-27,1,142,16,False,False,True,False
+43b8e63c,Chicken Breast,2025-05-06,58,479,25,False,False,True,False
+bf575d03,Milk,2025-04-20,35,243,9,False,True,False,False
+cdd680eb,Bananas,2025-05-06,49,53,25,False,False,False,True
+e2368cb8,Cheese,2025-04-11,87,307,0,False,True,False,False
+35cd7ca1,Chicken Breast,2025-05-06,2,310,25,False,False,True,False
+c9012e46,Oranges,2025-05-03,46,261,22,False,False,False,True
+1edc807d,Potatoes,2025-05-09,31,174,28,False,False,False,True
+91a0e066,Carrots,2025-04-21,3,490,10,False,False,False,True
+874869ac,Yogurt,2025-05-06,82,96,25,False,True,False,False
+476af483,Potatoes,2025-05-05,74,182,24,False,False,False,True
+c91dbd7e,Mushrooms,2025-05-06,62,424,25,False,False,False,True
+47bd8b26,Mushrooms,2025-05-04,51,280,23,False,False,False,True
+9ff858a0,Milk,2025-04-26,11,243,15,False,True,False,False
+8f62c90c,Oranges,2025-05-10,66,151,29,False,False,False,True
+f6fe532b,Potatoes,2025-05-10,51,424,29,False,False,False,True
+c7bd2c42,Bread,2025-04-14,58,86,3,True,False,False,False
+55c77027,Blueberries,2025-04-29,51,293,18,False,False,False,True
+352e251c,Yogurt,2025-05-04,75,181,23,False,True,False,False
+4889db98,Cheese,2025-04-29,43,497,18,False,True,False,False
+6441693d,Bananas,2025-05-04,52,367,23,False,False,False,True
+8cce69db,Strawberries,2025-04-26,75,269,15,False,False,False,True
+b8c889c5,Tomatoes,2025-04-12,27,478,1,False,False,False,True
+5c2192b3,Lettuce,2025-05-08,19,119,27,False,False,False,True
+75c35373,Carrots,2025-04-27,62,442,16,False,False,False,True
+94e918b7,Bananas,2025-04-11,86,432,0,False,False,False,True
+b7e20c6b,Spinach,2025-05-05,73,471,24,False,False,False,True
+57699442,Bread,2025-04-23,30,184,12,True,False,False,False
+5234069f,Strawberries,2025-05-01,74,105,20,False,False,False,True
+8996fb70,Milk,2025-04-23,95,341,12,False,True,False,False
+e1797b95,Strawberries,2025-05-07,12,244,26,False,False,False,True
+d32bf0e6,Strawberries,2025-04-30,14,215,19,False,False,False,True
+2e84f91a,Strawberries,2025-05-07,76,97,26,False,False,False,True
+988037e0,Mushrooms,2025-04-19,94,158,8,False,False,False,True
+37471139,Strawberries,2025-05-09,71,59,28,False,False,False,True
+c3695644,Bread,2025-04-21,0,57,10,True,False,False,False
+28cb5a0d,Apples,2025-04-13,5,176,2,False,False,False,True
+7fd16ec8,Chicken Breast,2025-04-14,2,334,3,False,False,True,False
+24bc03b1,Carrots,2025-04-19,91,350,8,False,False,False,True
+43f71b9e,Ground Beef,2025-05-08,36,224,27,False,False,True,False
+4bf89436,Ground Beef,2025-04-27,24,240,16,False,False,True,False
+b5e0cc26,Bananas,2025-04-27,30,419,16,False,False,False,True
+a6211954,Blueberries,2025-04-15,56,358,4,False,False,False,True
+b5ebf088,Tomatoes,2025-05-05,11,200,24,False,False,False,True
+c87b2990,Lettuce,2025-04-12,30,60,1,False,False,False,True
+0d67322b,Cheese,2025-04-16,2,402,5,False,True,False,False
+a5495ef2,Potatoes,2025-05-08,41,334,27,False,False,False,True
+e8ea7769,Strawberries,2025-04-11,11,229,0,False,False,False,True
+b83901ce,Onions,2025-05-08,54,225,27,False,False,False,True
+16cffba3,Butter,2025-04-18,74,85,7,False,True,False,False
+a4d233e8,Butter,2025-04-14,59,357,3,False,True,False,False
+c8a8385b,Onions,2025-05-06,52,320,25,False,False,False,True
+38469bf7,Butter,2025-04-30,84,466,19,False,True,False,False
+1636f530,Mushrooms,2025-04-29,100,415,18,False,False,False,True
+1cf2bd92,Spinach,2025-04-22,93,343,11,False,False,False,True
+f090c25a,Mushrooms,2025-04-17,16,343,6,False,False,False,True
+1c80390d,Lettuce,2025-05-08,91,148,27,False,False,False,True
+86fe7034,Blueberries,2025-05-06,37,242,25,False,False,False,True
+5989c40f,Milk,2025-05-05,93,74,24,False,True,False,False
+4d686d1a,Ground Beef,2025-04-12,34,379,1,False,False,True,False
+462026fe,Milk,2025-04-23,27,437,12,False,True,False,False
+e2b3dc0f,Onions,2025-04-14,22,491,3,False,False,False,True
+4367e35f,Tomatoes,2025-04-11,87,308,0,False,False,False,True
+8b2edc41,Lettuce,2025-05-09,31,356,28,False,False,False,True
+430a7720,Onions,2025-05-03,69,493,22,False,False,False,True
+5c88cc50,Mushrooms,2025-05-01,30,415,20,False,False,False,True
+30edbb6f,Yogurt,2025-04-18,74,169,7,False,True,False,False
+5af49a6a,Apples,2025-04-19,10,291,8,False,False,False,True
+f11b8f00,Onions,2025-05-01,38,269,20,False,False,False,True
+d3ad088c,Spinach,2025-05-04,77,234,23,False,False,False,True
+81260aff,Tomatoes,2025-05-05,30,386,24,False,False,False,True
+ba78b003,Apples,2025-04-15,55,381,4,False,False,False,True
+1d4853dc,Carrots,2025-04-22,89,452,11,False,False,False,True
+7df993e4,Lettuce,2025-05-05,2,63,24,False,False,False,True
+65a9fcd6,Ground Beef,2025-04-11,32,423,0,False,False,True,False
+d86bda6f,Yogurt,2025-04-13,18,251,2,False,True,False,False
+3309940e,Potatoes,2025-04-29,45,409,18,False,False,False,True
+42c2bf09,Tomatoes,2025-04-14,83,323,3,False,False,False,True
+e825af9c,Chicken Breast,2025-05-07,60,431,26,False,False,True,False
+966f9654,Strawberries,2025-05-10,9,73,29,False,False,False,True
+659475c9,Carrots,2025-05-01,89,249,20,False,False,False,True
+2cb3e2b2,Chicken Breast,2025-04-30,25,273,19,False,False,True,False
+e126ad87,Spinach,2025-04-29,41,219,18,False,False,False,True
+336509fd,Bread,2025-05-06,76,400,25,True,False,False,False
+b67be9ce,Cheese,2025-04-23,33,220,12,False,True,False,False
+18943160,Lettuce,2025-04-13,15,79,2,False,False,False,True
+9201f35b,Lettuce,2025-04-13,86,180,2,False,False,False,True
+19cf7dd1,Chicken Breast,2025-04-23,26,174,12,False,False,True,False
+7958931b,Ground Beef,2025-04-30,36,58,19,False,False,True,False
+76d0716a,Ground Beef,2025-05-06,44,83,25,False,False,True,False
+8ac7261f,Mushrooms,2025-05-01,54,424,20,False,False,False,True
+fd3b4568,Apples,2025-04-20,73,199,9,False,False,False,True
+8a6fe113,Carrots,2025-04-12,42,394,1,False,False,False,True
+967a873c,Chicken Breast,2025-04-29,3,98,18,False,False,True,False
+1fd77ef3,Bread,2025-05-08,75,378,27,True,False,False,False
+a11e0b1f,Carrots,2025-05-03,26,184,22,False,False,False,True
+04cca317,Butter,2025-05-02,39,436,21,False,True,False,False
+8f1e1fcd,Lettuce,2025-04-17,91,391,6,False,False,False,True
+21766c53,Chicken Breast,2025-05-01,50,156,20,False,False,True,False
+d8640616,Yogurt,2025-05-08,58,292,27,False,True,False,False
+52a15514,Milk,2025-04-30,31,470,19,False,True,False,False
+5a9bd6a7,Butter,2025-04-22,82,61,11,False,True,False,False
+116a89e7,Bread,2025-05-03,63,401,22,True,False,False,False
+f3eb9dba,Blueberries,2025-04-27,64,347,16,False,False,False,True
+291b1142,Lettuce,2025-05-07,100,105,26,False,False,False,True
+13ace8ea,Tomatoes,2025-04-12,94,66,1,False,False,False,True
+a972b7f4,Cheese,2025-04-15,17,182,4,False,True,False,False
+09196ead,Strawberries,2025-05-10,17,443,29,False,False,False,True
+541afa00,Blueberries,2025-04-26,94,389,15,False,False,False,True
+2b014854,Mushrooms,2025-05-06,49,56,25,False,False,False,True
+2b2d9a92,Lettuce,2025-05-02,80,339,21,False,False,False,True
+244a246f,Cheese,2025-04-22,74,59,11,False,True,False,False
+e0fad591,Strawberries,2025-05-03,24,400,22,False,False,False,True
+0213fd8c,Apples,2025-05-10,84,146,29,False,False,False,True
+0320af37,Apples,2025-04-24,83,476,13,False,False,False,True
+e37d222e,Bananas,2025-04-29,18,111,18,False,False,False,True
+3e91d3b0,Onions,2025-04-13,29,55,2,False,False,False,True
+88462819,Ground Beef,2025-04-18,95,368,7,False,False,True,False
+4c3377a0,Lettuce,2025-04-18,73,294,7,False,False,False,True
+308bdcf9,Mushrooms,2025-05-06,94,438,25,False,False,False,True
+1c58051d,Butter,2025-04-28,86,172,17,False,True,False,False
+07fb435c,Butter,2025-04-19,4,210,8,False,True,False,False
+c7335201,Lettuce,2025-04-22,84,101,11,False,False,False,True
+73ac796f,Strawberries,2025-04-26,6,421,15,False,False,False,True
+9121abb9,Oranges,2025-04-12,14,109,1,False,False,False,True
+819e33dd,Strawberries,2025-04-12,77,428,1,False,False,False,True
+b99930c4,Milk,2025-04-13,13,52,2,False,True,False,False
+bfd798fc,Strawberries,2025-04-17,36,208,6,False,False,False,True
+bc2448d7,Apples,2025-04-16,99,130,5,False,False,False,True
+ffb23d06,Strawberries,2025-05-03,20,374,22,False,False,False,True
+6af58fdb,Mushrooms,2025-04-11,93,225,0,False,False,False,True
+b7374d48,Bananas,2025-04-24,49,141,13,False,False,False,True
+a4676ca0,Apples,2025-04-13,88,314,2,False,False,False,True
+551537e9,Onions,2025-05-09,53,72,28,False,False,False,True
+94728d7f,Apples,2025-05-07,51,285,26,False,False,False,True
+2cc77d86,Onions,2025-05-10,39,239,29,False,False,False,True
+0470dbbe,Yogurt,2025-05-04,54,63,23,False,True,False,False
+4c3de4ed,Lettuce,2025-04-17,93,248,6,False,False,False,True
+827e44c1,Bread,2025-04-16,88,495,5,True,False,False,False
+128be07a,Yogurt,2025-05-08,46,104,27,False,True,False,False
+bf8c1ac8,Oranges,2025-04-13,14,371,2,False,False,False,True
+12603430,Mushrooms,2025-04-25,24,323,14,False,False,False,True
+5a457f5a,Strawberries,2025-05-04,97,50,23,False,False,False,True
+b552887a,Chicken Breast,2025-04-26,71,100,15,False,False,True,False
+5dc2e865,Chicken Breast,2025-05-08,1,442,27,False,False,True,False
+3b871609,Blueberries,2025-04-19,75,390,8,False,False,False,True
+60fe4dc5,Spinach,2025-05-06,85,382,25,False,False,False,True
+2080ca66,Bananas,2025-05-06,73,193,25,False,False,False,True
+b2eb2948,Bread,2025-04-26,70,424,15,True,False,False,False
+86e1c474,Milk,2025-04-19,71,455,8,False,True,False,False
+79764720,Bananas,2025-04-26,100,483,15,False,False,False,True
+41b7523b,Ground Beef,2025-04-14,60,215,3,False,False,True,False
+bc1c9366,Blueberries,2025-05-02,2,482,21,False,False,False,True
+4d37006e,Potatoes,2025-04-30,13,270,19,False,False,False,True
+e53dfb3b,Strawberries,2025-04-30,81,311,19,False,False,False,True
+d303f121,Bananas,2025-05-05,65,330,24,False,False,False,True
+0f4adbad,Bananas,2025-04-14,17,154,3,False,False,False,True
+d92b5237,Bananas,2025-04-25,89,492,14,False,False,False,True
+41ce4bac,Milk,2025-04-25,40,277,14,False,True,False,False
+4dcada89,Oranges,2025-04-13,76,485,2,False,False,False,True
+12c3a5ee,Yogurt,2025-04-22,64,277,11,False,True,False,False
+4313a9d6,Apples,2025-05-10,46,352,29,False,False,False,True
+0548f220,Mushrooms,2025-04-23,34,166,12,False,False,False,True
+720b81fe,Butter,2025-04-16,14,245,5,False,True,False,False
+2b97e38c,Oranges,2025-05-05,79,258,24,False,False,False,True
+98cccf41,Yogurt,2025-04-25,58,282,14,False,True,False,False
+7132c0ac,Ground Beef,2025-04-21,31,247,10,False,False,True,False
+63090d78,Apples,2025-05-04,35,364,23,False,False,False,True
+2fa000a7,Lettuce,2025-04-21,44,371,10,False,False,False,True
+bd8a28fe,Blueberries,2025-05-02,62,287,21,False,False,False,True
+0b3375fc,Blueberries,2025-04-29,40,114,18,False,False,False,True
+30397365,Ground Beef,2025-05-09,46,191,28,False,False,True,False
+17cea6c4,Spinach,2025-04-21,89,92,10,False,False,False,True
+0ad9801a,Butter,2025-04-13,52,423,2,False,True,False,False
+e7fb1980,Ground Beef,2025-05-01,65,470,20,False,False,True,False
+4871f47d,Mushrooms,2025-04-29,29,407,18,False,False,False,True
+c9b3e25b,Butter,2025-04-30,28,306,19,False,True,False,False
+3f2e40f0,Blueberries,2025-04-17,18,268,6,False,False,False,True
+25b08ed2,Milk,2025-05-02,64,206,21,False,True,False,False
+48641417,Lettuce,2025-04-18,28,92,7,False,False,False,True
+72ea0778,Oranges,2025-05-08,21,147,27,False,False,False,True
+3acc99cd,Blueberries,2025-04-17,62,99,6,False,False,False,True
+abf07913,Potatoes,2025-04-29,18,274,18,False,False,False,True
+93c77b94,Bananas,2025-05-01,33,110,20,False,False,False,True
+3e56a6c1,Ground Beef,2025-04-28,25,92,17,False,False,True,False
+c5a82142,Cheese,2025-04-21,93,228,10,False,True,False,False
+3514d8f2,Potatoes,2025-04-19,21,358,8,False,False,False,True
+32d07b94,Onions,2025-04-23,24,370,12,False,False,False,True
+b3ba6b4f,Potatoes,2025-05-09,16,337,28,False,False,False,True
+e8a2d72d,Oranges,2025-04-15,78,244,4,False,False,False,True
+45bd3ac7,Spinach,2025-04-15,34,311,4,False,False,False,True
+bcd5c793,Blueberries,2025-05-01,35,342,20,False,False,False,True
+bc7a1c2b,Milk,2025-04-22,7,160,11,False,True,False,False
+2c0fd1d1,Onions,2025-05-04,50,388,23,False,False,False,True
+fe37c63b,Bread,2025-04-27,97,213,16,True,False,False,False
+7691fa55,Tomatoes,2025-05-10,9,452,29,False,False,False,True
+c186462b,Carrots,2025-04-13,46,391,2,False,False,False,True
+8ec00a68,Bananas,2025-05-05,35,151,24,False,False,False,True
+fea4059a,Lettuce,2025-05-08,34,220,27,False,False,False,True
+ec9a1b2c,Lettuce,2025-04-15,18,325,4,False,False,False,True
+2f31b18d,Yogurt,2025-04-18,57,84,7,False,True,False,False
+5d208e36,Onions,2025-04-13,32,207,2,False,False,False,True
+c5d203c7,Onions,2025-05-10,40,76,29,False,False,False,True
+3827d255,Bananas,2025-04-11,69,160,0,False,False,False,True
+ffaa6cab,Tomatoes,2025-04-11,29,303,0,False,False,False,True
+d7a04965,Butter,2025-04-13,12,69,2,False,True,False,False
+b507054e,Butter,2025-05-08,30,106,27,False,True,False,False
+0fe3b753,Ground Beef,2025-04-13,31,153,2,False,False,True,False
+e83419c3,Tomatoes,2025-04-16,10,267,5,False,False,False,True
+cb313475,Onions,2025-04-28,95,434,17,False,False,False,True
+23d68031,Carrots,2025-04-11,95,224,0,False,False,False,True
+455d5f13,Onions,2025-05-06,0,248,25,False,False,False,True
+3cf1195b,Blueberries,2025-05-07,36,52,26,False,False,False,True
+f3d11c4c,Milk,2025-04-16,72,188,5,False,True,False,False
+4ecf14ca,Bananas,2025-05-01,1,163,20,False,False,False,True
+37257f08,Butter,2025-04-17,28,317,6,False,True,False,False
+086fd5be,Bananas,2025-04-24,36,320,13,False,False,False,True
+64cd1d9d,Cheese,2025-04-26,76,248,15,False,True,False,False
+f7965239,Cheese,2025-05-03,63,134,22,False,True,False,False
+175812a4,Yogurt,2025-04-13,35,149,2,False,True,False,False
+e12d6f10,Chicken Breast,2025-04-13,70,63,2,False,False,True,False
+64b0bca2,Onions,2025-04-11,28,298,0,False,False,False,True
+30f138bf,Tomatoes,2025-05-02,9,415,21,False,False,False,True
+0e8f6618,Strawberries,2025-05-02,91,176,21,False,False,False,True
+e58c3c2a,Tomatoes,2025-04-26,95,182,15,False,False,False,True
+5d340522,Ground Beef,2025-04-22,13,138,11,False,False,True,False
+8110e04a,Strawberries,2025-04-20,4,448,9,False,False,False,True
+8bba50e9,Cheese,2025-04-21,36,421,10,False,True,False,False
+393f9a03,Bananas,2025-04-27,67,252,16,False,False,False,True
+01f3badd,Spinach,2025-04-26,14,400,15,False,False,False,True
+4fa4953b,Oranges,2025-04-19,82,253,8,False,False,False,True
+16449ba7,Tomatoes,2025-04-12,69,230,1,False,False,False,True
+eb4bd1d6,Mushrooms,2025-04-29,65,164,18,False,False,False,True
+976d0211,Lettuce,2025-04-17,87,338,6,False,False,False,True
+69b75027,Mushrooms,2025-04-26,91,289,15,False,False,False,True
+6cc6f60e,Bananas,2025-04-13,47,135,2,False,False,False,True
+ad85ba11,Strawberries,2025-04-15,1,301,4,False,False,False,True
+ae15790f,Strawberries,2025-04-26,83,96,15,False,False,False,True
+3f2366ea,Onions,2025-04-27,97,112,16,False,False,False,True
+660ecd41,Potatoes,2025-04-27,88,387,16,False,False,False,True
+882c7d25,Apples,2025-05-10,11,208,29,False,False,False,True
+5763629b,Butter,2025-05-08,27,422,27,False,True,False,False
+2eb6156c,Yogurt,2025-04-24,72,56,13,False,True,False,False
+c5aaa964,Apples,2025-04-30,15,72,19,False,False,False,True
+5a8ec02c,Onions,2025-04-24,49,380,13,False,False,False,True
+325ebaae,Ground Beef,2025-04-18,86,171,7,False,False,True,False
+733481ff,Yogurt,2025-04-11,56,110,0,False,True,False,False
+2d81344d,Apples,2025-04-25,82,81,14,False,False,False,True
+19a2238b,Carrots,2025-04-15,58,138,4,False,False,False,True
+ff91946e,Oranges,2025-04-12,79,284,1,False,False,False,True
+604bf3f9,Tomatoes,2025-05-03,42,365,22,False,False,False,True
+c9b07d22,Blueberries,2025-04-24,76,220,13,False,False,False,True
+747d9397,Lettuce,2025-04-21,82,136,10,False,False,False,True
+8dae5c8f,Spinach,2025-04-14,33,419,3,False,False,False,True
+9dcaa938,Lettuce,2025-05-01,86,61,20,False,False,False,True
+059d4153,Yogurt,2025-04-17,20,119,6,False,True,False,False
+26cf4c77,Lettuce,2025-05-06,98,51,25,False,False,False,True
+acfa0671,Oranges,2025-05-08,77,404,27,False,False,False,True
+25489a74,Carrots,2025-05-09,96,213,28,False,False,False,True
+4660e5e3,Blueberries,2025-04-18,72,236,7,False,False,False,True
+cd95301a,Bread,2025-04-18,79,348,7,True,False,False,False
+9b367888,Ground Beef,2025-04-17,52,124,6,False,False,True,False
+326a8401,Potatoes,2025-04-24,7,232,13,False,False,False,True
+02c039e7,Potatoes,2025-05-08,72,90,27,False,False,False,True
+a1f8a910,Cheese,2025-05-10,76,440,29,False,True,False,False
+300c649b,Mushrooms,2025-05-09,67,127,28,False,False,False,True
+899f6dd9,Cheese,2025-05-01,78,365,20,False,True,False,False
+53c256cc,Lettuce,2025-04-11,61,345,0,False,False,False,True
+07f21f3b,Mushrooms,2025-04-12,33,53,1,False,False,False,True
+81873fc3,Ground Beef,2025-04-11,25,343,0,False,False,True,False
+5542f282,Butter,2025-04-26,39,405,15,False,True,False,False
+bbf98192,Yogurt,2025-04-22,30,229,11,False,True,False,False
+4c785c53,Cheese,2025-04-25,29,150,14,False,True,False,False
+d7eae30c,Onions,2025-04-13,18,456,2,False,False,False,True
+c103c185,Butter,2025-04-23,16,180,12,False,True,False,False
+8fc03b2e,Cheese,2025-04-15,77,198,4,False,True,False,False
+c3c717fd,Cheese,2025-04-29,96,85,18,False,True,False,False
+dc147537,Lettuce,2025-04-11,64,310,0,False,False,False,True
+8727dc4f,Bananas,2025-05-06,67,136,25,False,False,False,True
+055e5aa5,Bread,2025-04-17,20,299,6,True,False,False,False
+0f883b46,Cheese,2025-04-12,7,74,1,False,True,False,False
+3e107280,Tomatoes,2025-04-20,90,462,9,False,False,False,True
+9d16e2a1,Bread,2025-05-07,90,365,26,True,False,False,False
+3fe16caa,Chicken Breast,2025-04-29,28,126,18,False,False,True,False
+bdae1e67,Tomatoes,2025-04-20,63,197,9,False,False,False,True
+31ac22a7,Milk,2025-05-02,33,195,21,False,True,False,False
+4546fc56,Yogurt,2025-04-13,96,188,2,False,True,False,False
+0f5a3962,Butter,2025-05-07,5,340,26,False,True,False,False
+22b9606c,Chicken Breast,2025-04-13,30,414,2,False,False,True,False
+08a77427,Bread,2025-04-16,71,78,5,True,False,False,False
+78ebc240,Tomatoes,2025-05-02,45,273,21,False,False,False,True
+3a22e287,Apples,2025-04-25,12,413,14,False,False,False,True
+6a2818f3,Ground Beef,2025-04-23,44,183,12,False,False,True,False
+37c8eaea,Chicken Breast,2025-04-30,77,379,19,False,False,True,False
+0c0c3b20,Milk,2025-05-03,78,406,22,False,True,False,False
+3e0b5a25,Oranges,2025-04-26,60,411,15,False,False,False,True
+6ceec3e1,Onions,2025-04-16,67,154,5,False,False,False,True
+727a76f9,Mushrooms,2025-05-07,14,218,26,False,False,False,True
+da847c0e,Ground Beef,2025-04-21,34,249,10,False,False,True,False
+603d1178,Mushrooms,2025-05-05,82,371,24,False,False,False,True
+59a4a0a6,Carrots,2025-05-05,36,444,24,False,False,False,True
+941cc2d1,Strawberries,2025-04-27,52,61,16,False,False,False,True
+a387423c,Butter,2025-04-20,86,94,9,False,True,False,False
+60b4b1f1,Milk,2025-04-19,93,450,8,False,True,False,False
+d508fb47,Chicken Breast,2025-04-11,48,424,0,False,False,True,False
+583e6faf,Strawberries,2025-05-01,41,372,20,False,False,False,True
+763b31ae,Yogurt,2025-04-25,40,189,14,False,True,False,False
+5f4a742d,Cheese,2025-05-05,85,289,24,False,True,False,False
+9507ef02,Ground Beef,2025-05-05,64,75,24,False,False,True,False
+b178312d,Bread,2025-05-06,40,108,25,True,False,False,False
+3cfc2d21,Blueberries,2025-04-20,16,433,9,False,False,False,True
+37befcf1,Yogurt,2025-04-13,58,475,2,False,True,False,False
+bdd78536,Cheese,2025-05-05,7,229,24,False,True,False,False
+0a3df6e7,Butter,2025-05-07,4,107,26,False,True,False,False
+148b36c8,Blueberries,2025-04-14,93,404,3,False,False,False,True
+67c0a161,Carrots,2025-05-08,60,316,27,False,False,False,True
+146cba94,Bread,2025-04-11,35,446,0,True,False,False,False
+a7cbe068,Strawberries,2025-04-20,13,143,9,False,False,False,True
+a772eee2,Potatoes,2025-04-16,85,440,5,False,False,False,True
+adc0fb66,Blueberries,2025-04-16,88,441,5,False,False,False,True
+6087a9f1,Apples,2025-05-05,22,380,24,False,False,False,True
+02e34623,Bread,2025-04-17,50,206,6,True,False,False,False
+959b0051,Bread,2025-04-12,32,331,1,True,False,False,False
+9b9b5f37,Apples,2025-04-22,74,305,11,False,False,False,True
+aae45152,Mushrooms,2025-05-03,44,81,22,False,False,False,True
+1b992bd2,Yogurt,2025-04-24,27,324,13,False,True,False,False
+0c865bb6,Bananas,2025-04-14,99,315,3,False,False,False,True
+fdb9b54d,Chicken Breast,2025-04-29,96,491,18,False,False,True,False
+80902fda,Apples,2025-05-05,80,97,24,False,False,False,True
+41123fc5,Potatoes,2025-04-30,0,68,19,False,False,False,True
+065e5dbe,Cheese,2025-05-04,29,380,23,False,True,False,False
+c4ec71e6,Bananas,2025-05-03,10,427,22,False,False,False,True
+e4e4d324,Butter,2025-04-22,49,295,11,False,True,False,False
+57e182ab,Milk,2025-04-13,32,144,2,False,True,False,False
+4248e4b1,Spinach,2025-04-14,44,298,3,False,False,False,True
+762b2e11,Butter,2025-05-07,1,200,26,False,True,False,False
+e5b85aa6,Milk,2025-04-13,40,449,2,False,True,False,False
+e31f9976,Strawberries,2025-04-26,32,404,15,False,False,False,True
+cf59ab14,Potatoes,2025-04-26,60,491,15,False,False,False,True
+eb3435d7,Blueberries,2025-04-28,25,478,17,False,False,False,True
+930f6847,Blueberries,2025-04-20,72,192,9,False,False,False,True
+9995d8dd,Carrots,2025-05-04,18,314,23,False,False,False,True
+020be16c,Blueberries,2025-04-25,16,438,14,False,False,False,True
+49b916ef,Lettuce,2025-04-13,71,126,2,False,False,False,True
+d5775aa0,Ground Beef,2025-04-26,30,94,15,False,False,True,False
+e91b95d5,Ground Beef,2025-05-05,16,382,24,False,False,True,False
+05367ac6,Ground Beef,2025-04-16,7,346,5,False,False,True,False
+0b17886d,Lettuce,2025-04-22,58,487,11,False,False,False,True
+73afa235,Strawberries,2025-04-14,93,229,3,False,False,False,True
+1d10d33b,Ground Beef,2025-05-08,67,355,27,False,False,True,False
+2470ab12,Lettuce,2025-04-26,37,363,15,False,False,False,True
+062ad4c0,Butter,2025-04-27,100,173,16,False,True,False,False
+be577262,Blueberries,2025-04-22,68,281,11,False,False,False,True
+0e364323,Butter,2025-04-29,64,471,18,False,True,False,False
+ea65ab0d,Potatoes,2025-04-18,36,107,7,False,False,False,True
+e53517d5,Apples,2025-04-27,63,288,16,False,False,False,True
+60854ff6,Cheese,2025-04-25,31,289,14,False,True,False,False
+a8b55f92,Bread,2025-05-01,82,341,20,True,False,False,False
+845c60eb,Mushrooms,2025-04-11,77,430,0,False,False,False,True
+b6b386d0,Potatoes,2025-04-27,74,286,16,False,False,False,True
+6f056413,Chicken Breast,2025-04-30,23,495,19,False,False,True,False
+f0e71205,Mushrooms,2025-04-17,95,453,6,False,False,False,True
+300cfa99,Strawberries,2025-05-07,72,377,26,False,False,False,True
+36633079,Blueberries,2025-04-26,35,272,15,False,False,False,True
+e59d849b,Tomatoes,2025-05-01,52,233,20,False,False,False,True
+92de0377,Carrots,2025-04-16,78,69,5,False,False,False,True
+d0f1eedd,Potatoes,2025-04-21,20,381,10,False,False,False,True
+1d979a6c,Cheese,2025-05-04,29,345,23,False,True,False,False
+c4cff728,Mushrooms,2025-05-08,96,116,27,False,False,False,True
+dbf8b482,Oranges,2025-05-06,33,442,25,False,False,False,True
+4c2d1dbd,Carrots,2025-04-25,46,192,14,False,False,False,True
+a509aee4,Blueberries,2025-04-27,81,110,16,False,False,False,True
+4ddd9a90,Tomatoes,2025-04-15,18,231,4,False,False,False,True
+2f57e14a,Onions,2025-04-21,39,492,10,False,False,False,True
+728cfa91,Strawberries,2025-05-01,39,80,20,False,False,False,True
+e6ddeca6,Blueberries,2025-04-20,27,457,9,False,False,False,True
+4f15f22c,Tomatoes,2025-04-23,7,76,12,False,False,False,True
+7e83cd86,Chicken Breast,2025-04-17,7,53,6,False,False,True,False
+1169e40e,Milk,2025-04-16,25,64,5,False,True,False,False
+8e0b5d08,Potatoes,2025-04-28,86,447,17,False,False,False,True
+7d987dc4,Spinach,2025-04-29,65,362,18,False,False,False,True
+0256b053,Milk,2025-04-30,65,283,19,False,True,False,False
+c7771ad7,Chicken Breast,2025-04-14,57,415,3,False,False,True,False
+c9685e7e,Cheese,2025-04-23,41,76,12,False,True,False,False
+18efbbdd,Potatoes,2025-05-01,83,311,20,False,False,False,True
+c30791a3,Tomatoes,2025-05-10,79,162,29,False,False,False,True
+cc8c2ea5,Oranges,2025-05-09,32,228,28,False,False,False,True
+e4fa6d2b,Blueberries,2025-05-01,96,224,20,False,False,False,True
+bc70f73f,Mushrooms,2025-04-17,60,379,6,False,False,False,True
+fa986b67,Mushrooms,2025-05-08,18,107,27,False,False,False,True
+78a167e7,Spinach,2025-04-25,46,304,14,False,False,False,True
+18f2e5ac,Ground Beef,2025-04-25,27,493,14,False,False,True,False
+20647fee,Cheese,2025-05-07,91,241,26,False,True,False,False
+86a2beeb,Blueberries,2025-05-09,92,459,28,False,False,False,True
+0403548e,Oranges,2025-04-28,58,360,17,False,False,False,True
+2f9f4457,Apples,2025-04-20,29,343,9,False,False,False,True
+0f9920be,Yogurt,2025-05-06,11,67,25,False,True,False,False
+fd508615,Blueberries,2025-04-12,88,288,1,False,False,False,True
+51a9f929,Yogurt,2025-04-13,42,89,2,False,True,False,False
+13f9ba9a,Carrots,2025-04-27,68,72,16,False,False,False,True
+8da1d699,Strawberries,2025-05-01,71,243,20,False,False,False,True
+eeff3923,Potatoes,2025-04-25,61,396,14,False,False,False,True
+37d30985,Cheese,2025-04-25,30,98,14,False,True,False,False
+c22f5c7e,Chicken Breast,2025-05-05,83,176,24,False,False,True,False
+6ed938f2,Chicken Breast,2025-04-21,22,75,10,False,False,True,False
+6b48b7da,Onions,2025-04-27,5,347,16,False,False,False,True
+39dc4492,Blueberries,2025-04-18,27,242,7,False,False,False,True
+8a6e0e55,Ground Beef,2025-05-08,63,295,27,False,False,True,False
+d1b7e506,Chicken Breast,2025-04-13,80,451,2,False,False,True,False
+fb4020a1,Oranges,2025-04-16,56,222,5,False,False,False,True
+9332ce7d,Apples,2025-04-11,2,421,0,False,False,False,True
+666d7fc5,Strawberries,2025-04-24,70,370,13,False,False,False,True
+b67d1192,Mushrooms,2025-04-13,12,238,2,False,False,False,True
+7493b1c9,Bananas,2025-04-16,89,187,5,False,False,False,True
+89fd9a72,Onions,2025-05-04,4,340,23,False,False,False,True
+6c9c1255,Onions,2025-05-03,4,423,22,False,False,False,True
+cf928e31,Oranges,2025-04-20,55,194,9,False,False,False,True
+0ed6c7d5,Chicken Breast,2025-04-21,67,177,10,False,False,True,False
+26f3f0d3,Carrots,2025-04-22,43,368,11,False,False,False,True
+9cc8d779,Chicken Breast,2025-04-24,19,242,13,False,False,True,False
+4cdaf3b5,Onions,2025-04-19,49,203,8,False,False,False,True
+f4e2b632,Milk,2025-04-22,65,100,11,False,True,False,False
+2bbd8bbe,Lettuce,2025-05-09,88,321,28,False,False,False,True
+057203bf,Spinach,2025-04-20,73,322,9,False,False,False,True
+2a2b96e7,Chicken Breast,2025-04-23,40,255,12,False,False,True,False
+fc13d7d6,Chicken Breast,2025-04-27,16,443,16,False,False,True,False
+c9d5ac6d,Butter,2025-04-13,55,203,2,False,True,False,False
+fe790ced,Milk,2025-04-23,95,203,12,False,True,False,False
+2e8cc4b0,Oranges,2025-04-19,94,496,8,False,False,False,True
+f0b9d9d3,Bananas,2025-04-20,31,301,9,False,False,False,True
+6d2be023,Tomatoes,2025-05-02,69,421,21,False,False,False,True
+3d5f6004,Tomatoes,2025-05-06,92,478,25,False,False,False,True
+3b4c250b,Strawberries,2025-04-14,31,240,3,False,False,False,True
+bbee72ed,Potatoes,2025-04-19,72,318,8,False,False,False,True
+9a199296,Potatoes,2025-05-07,7,251,26,False,False,False,True
+ce82d88d,Onions,2025-04-19,43,53,8,False,False,False,True
+9126fcf9,Onions,2025-04-24,59,172,13,False,False,False,True
+de492b42,Onions,2025-04-13,69,378,2,False,False,False,True
+46850f62,Potatoes,2025-04-19,69,72,8,False,False,False,True
+094a8db2,Lettuce,2025-04-30,10,88,19,False,False,False,True
+7cb6f5f8,Blueberries,2025-05-10,3,75,29,False,False,False,True
+0dbb65f6,Ground Beef,2025-04-13,10,105,2,False,False,True,False
+9ee8d375,Cheese,2025-05-07,43,148,26,False,True,False,False
+68e6143b,Onions,2025-04-27,73,143,16,False,False,False,True
+37cdeba4,Apples,2025-05-09,43,94,28,False,False,False,True
+16f0c229,Ground Beef,2025-04-15,52,154,4,False,False,True,False
+ac94f5e7,Spinach,2025-04-26,72,421,15,False,False,False,True
+d18456c8,Chicken Breast,2025-04-12,91,401,1,False,False,True,False
+cee63df8,Spinach,2025-05-07,29,139,26,False,False,False,True
+637528fa,Bread,2025-05-09,26,411,28,True,False,False,False
+f1bc3b3e,Lettuce,2025-04-14,26,469,3,False,False,False,True
+7c2de8fb,Strawberries,2025-05-10,5,378,29,False,False,False,True
+ab067030,Lettuce,2025-04-29,90,132,18,False,False,False,True
+8a9c3562,Tomatoes,2025-04-22,3,303,11,False,False,False,True
+0daaf78e,Milk,2025-05-02,38,470,21,False,True,False,False
+bb29a0df,Chicken Breast,2025-04-16,38,149,5,False,False,True,False
+f627f644,Carrots,2025-04-14,60,126,3,False,False,False,True
+471634aa,Bread,2025-04-19,79,394,8,True,False,False,False
+694849a2,Apples,2025-04-23,91,335,12,False,False,False,True
+eb6d9ebb,Apples,2025-04-21,3,443,10,False,False,False,True
+2fb42ae5,Yogurt,2025-04-27,17,77,16,False,True,False,False
+54e256d1,Bread,2025-04-15,21,265,4,True,False,False,False
+1dca0974,Blueberries,2025-04-19,13,194,8,False,False,False,True
+1f311369,Chicken Breast,2025-04-30,48,144,19,False,False,True,False
+61589fc4,Milk,2025-04-29,36,112,18,False,True,False,False
+82330ed3,Yogurt,2025-04-24,20,273,13,False,True,False,False
+b67c324d,Onions,2025-05-01,9,267,20,False,False,False,True
+89403344,Potatoes,2025-04-17,52,467,6,False,False,False,True
+f7235a6d,Spinach,2025-04-18,36,390,7,False,False,False,True
+8286b378,Bread,2025-04-19,67,430,8,True,False,False,False
+2098c754,Oranges,2025-05-05,14,154,24,False,False,False,True
+0293a74d,Bread,2025-04-20,80,337,9,True,False,False,False
+141781f0,Strawberries,2025-04-28,94,209,17,False,False,False,True
+fd4a32e9,Oranges,2025-04-26,97,93,15,False,False,False,True
+0c1ad58f,Ground Beef,2025-05-08,3,354,27,False,False,True,False
+7060c122,Cheese,2025-04-22,36,278,11,False,True,False,False
+a5cd592f,Onions,2025-04-15,78,113,4,False,False,False,True
+6838cc98,Bread,2025-04-13,98,319,2,True,False,False,False
+5846601f,Chicken Breast,2025-04-20,78,246,9,False,False,True,False
+5e490b96,Onions,2025-05-03,27,64,22,False,False,False,True
+4e6a0803,Mushrooms,2025-05-03,74,129,22,False,False,False,True
+13f06f37,Chicken Breast,2025-04-28,4,277,17,False,False,True,False
+73105d75,Mushrooms,2025-04-12,1,192,1,False,False,False,True
+8daadfbb,Milk,2025-04-16,7,315,5,False,True,False,False
+f7c6740f,Cheese,2025-05-04,28,296,23,False,True,False,False
+fc997d7b,Apples,2025-04-20,12,229,9,False,False,False,True
+422a2e17,Bananas,2025-04-26,11,408,15,False,False,False,True
+3962ad87,Carrots,2025-04-16,4,392,5,False,False,False,True
+9b8f3c79,Spinach,2025-04-25,81,283,14,False,False,False,True
+6c9c15fd,Spinach,2025-04-22,91,205,11,False,False,False,True
+e1da21b9,Strawberries,2025-05-06,30,100,25,False,False,False,True
+1008f7ac,Onions,2025-04-19,85,240,8,False,False,False,True
+8678d3ca,Bread,2025-04-14,93,382,3,True,False,False,False
+2acf1f78,Bread,2025-04-14,63,179,3,True,False,False,False
+386c46ee,Ground Beef,2025-04-12,61,279,1,False,False,True,False
+ec9fbc3c,Ground Beef,2025-04-18,41,373,7,False,False,True,False
+63fe9394,Yogurt,2025-04-19,29,260,8,False,True,False,False
+e44c1b36,Yogurt,2025-04-16,81,113,5,False,True,False,False
+24a05f49,Onions,2025-05-09,38,471,28,False,False,False,True
+95ab48bb,Milk,2025-05-06,52,90,25,False,True,False,False
+6699c721,Spinach,2025-04-11,43,323,0,False,False,False,True
+c2f6a762,Yogurt,2025-04-25,12,176,14,False,True,False,False
+7326db50,Butter,2025-05-10,90,90,29,False,True,False,False
+26ff3bae,Apples,2025-05-09,22,67,28,False,False,False,True
+143bc8eb,Blueberries,2025-04-17,46,179,6,False,False,False,True
+8b7f7862,Bananas,2025-04-16,14,465,5,False,False,False,True
+6ad65bbd,Oranges,2025-05-10,74,350,29,False,False,False,True
+e1bd96ce,Bread,2025-04-25,22,141,14,True,False,False,False
+2f9fb57f,Oranges,2025-04-11,54,206,0,False,False,False,True
+30cfa4ed,Strawberries,2025-04-26,32,164,15,False,False,False,True
+647584a0,Milk,2025-05-10,91,360,29,False,True,False,False
+77913aa3,Onions,2025-05-06,9,99,25,False,False,False,True
+65127c6d,Spinach,2025-04-30,17,295,19,False,False,False,True
+63409681,Strawberries,2025-05-01,76,409,20,False,False,False,True
+534a289d,Bread,2025-05-01,99,68,20,True,False,False,False
+07e289f6,Tomatoes,2025-04-29,47,188,18,False,False,False,True
+b64e2314,Lettuce,2025-04-15,49,170,4,False,False,False,True
+37b79d8f,Strawberries,2025-05-03,10,56,22,False,False,False,True
+f90da959,Chicken Breast,2025-04-20,15,406,9,False,False,True,False
+9230fc02,Butter,2025-04-17,18,198,6,False,True,False,False
+1224cbac,Onions,2025-04-16,30,121,5,False,False,False,True
+8cee7d04,Mushrooms,2025-04-15,38,432,4,False,False,False,True
+725e4227,Onions,2025-05-02,26,57,21,False,False,False,True
+37728f0f,Potatoes,2025-04-11,54,288,0,False,False,False,True
+009fa22e,Mushrooms,2025-04-17,27,156,6,False,False,False,True
+010cc90f,Carrots,2025-05-10,43,128,29,False,False,False,True
+132d2f7f,Spinach,2025-04-12,91,365,1,False,False,False,True
+5ca643ca,Bananas,2025-04-24,54,121,13,False,False,False,True
+1e71efaa,Potatoes,2025-05-07,4,408,26,False,False,False,True
+646885ac,Bananas,2025-04-14,71,406,3,False,False,False,True
+b24e868b,Oranges,2025-05-07,66,252,26,False,False,False,True
+9933c494,Spinach,2025-04-22,49,415,11,False,False,False,True
+5cb602a3,Mushrooms,2025-04-18,32,476,7,False,False,False,True
+2e7e60d1,Yogurt,2025-04-27,78,326,16,False,True,False,False
+3276a148,Cheese,2025-04-21,32,410,10,False,True,False,False
+af22acf2,Bread,2025-04-17,55,355,6,True,False,False,False
+dbdec569,Milk,2025-04-12,99,381,1,False,True,False,False
+1bd32ad2,Lettuce,2025-04-19,79,238,8,False,False,False,True
+1fb8de8c,Butter,2025-04-16,79,296,5,False,True,False,False
+d166318c,Yogurt,2025-04-20,86,336,9,False,True,False,False
+f1f5c8fe,Onions,2025-04-25,36,170,14,False,False,False,True
+f3b00cb0,Milk,2025-04-11,2,282,0,False,True,False,False
+ee66d1ed,Strawberries,2025-05-06,22,298,25,False,False,False,True
+d310592d,Yogurt,2025-04-17,65,86,6,False,True,False,False
+ea8ea7bd,Butter,2025-04-12,72,337,1,False,True,False,False
+7b4ae64d,Strawberries,2025-04-30,49,226,19,False,False,False,True
+aa92ca6e,Cheese,2025-04-28,49,237,17,False,True,False,False
+ce1c07a4,Butter,2025-04-18,28,275,7,False,True,False,False
+528f835f,Ground Beef,2025-04-13,87,383,2,False,False,True,False
+34a31179,Tomatoes,2025-04-24,23,237,13,False,False,False,True
+3b30a255,Onions,2025-04-13,56,261,2,False,False,False,True
+e84b1fd9,Bananas,2025-05-06,64,330,25,False,False,False,True
+a9a25ac5,Tomatoes,2025-05-10,54,231,29,False,False,False,True
+d3cad7a1,Butter,2025-05-08,15,236,27,False,True,False,False
+e9a20da0,Strawberries,2025-05-01,19,274,20,False,False,False,True
+f0199da3,Lettuce,2025-05-04,24,201,23,False,False,False,True
+4b8d76de,Bananas,2025-04-19,11,114,8,False,False,False,True
+74345bc0,Bread,2025-04-25,34,110,14,True,False,False,False
+875290a8,Lettuce,2025-04-19,23,344,8,False,False,False,True
+1f86b99d,Blueberries,2025-05-06,85,63,25,False,False,False,True
+f606b980,Onions,2025-04-22,33,220,11,False,False,False,True
+c1e0b2ef,Lettuce,2025-04-28,87,279,17,False,False,False,True
+9bd2b360,Onions,2025-04-12,15,291,1,False,False,False,True
+e82dce1d,Bananas,2025-04-30,42,264,19,False,False,False,True
+a0b8d14d,Lettuce,2025-05-08,80,90,27,False,False,False,True
+bd11a557,Tomatoes,2025-04-24,19,104,13,False,False,False,True
+f4f66cc7,Carrots,2025-05-09,99,183,28,False,False,False,True
+2ada5068,Milk,2025-04-18,6,430,7,False,True,False,False
+3f80c6de,Bread,2025-04-24,79,204,13,True,False,False,False
+b1000b65,Tomatoes,2025-04-26,16,405,15,False,False,False,True
+98b414e3,Apples,2025-04-17,27,352,6,False,False,False,True
+fb4e4218,Yogurt,2025-04-12,54,475,1,False,True,False,False
+3bb6ed5b,Onions,2025-04-17,11,433,6,False,False,False,True
+e0cd5621,Potatoes,2025-04-22,46,341,11,False,False,False,True
+2b62005f,Potatoes,2025-04-20,61,313,9,False,False,False,True
+bfff3f3f,Milk,2025-04-21,3,204,10,False,True,False,False
+e6c416e4,Lettuce,2025-04-17,80,218,6,False,False,False,True
+6c9452b3,Ground Beef,2025-05-01,5,468,20,False,False,True,False
+a9452f61,Ground Beef,2025-04-29,0,164,18,False,False,True,False
+6fba713d,Spinach,2025-04-20,30,155,9,False,False,False,True
+d866f52e,Strawberries,2025-04-26,41,141,15,False,False,False,True
+c55bafbe,Tomatoes,2025-04-23,5,105,12,False,False,False,True
+6371145d,Spinach,2025-04-30,7,154,19,False,False,False,True
+92e745df,Tomatoes,2025-04-21,71,67,10,False,False,False,True
+8715bfbc,Strawberries,2025-04-12,72,121,1,False,False,False,True
+15470f1a,Chicken Breast,2025-04-24,24,172,13,False,False,True,False
+63871d58,Bread,2025-04-26,62,58,15,True,False,False,False
+94c196cb,Butter,2025-04-19,88,412,8,False,True,False,False
+aacb7dd9,Ground Beef,2025-04-14,26,172,3,False,False,True,False
+74e5be59,Blueberries,2025-04-17,68,444,6,False,False,False,True
+25633619,Carrots,2025-05-01,72,92,20,False,False,False,True
+5a0d0178,Oranges,2025-05-03,87,138,22,False,False,False,True
+369cccde,Apples,2025-04-14,28,69,3,False,False,False,True
+dc2cea35,Ground Beef,2025-05-01,54,342,20,False,False,True,False
+63574a76,Tomatoes,2025-05-02,38,423,21,False,False,False,True
+dd12ba61,Lettuce,2025-04-15,51,433,4,False,False,False,True
+0864fca0,Mushrooms,2025-04-23,22,485,12,False,False,False,True
+9db54647,Apples,2025-04-24,77,417,13,False,False,False,True
+4d278e28,Lettuce,2025-05-04,5,389,23,False,False,False,True
+67feaad6,Bananas,2025-04-14,41,213,3,False,False,False,True
+dbcad279,Strawberries,2025-05-10,72,412,29,False,False,False,True
+3a2d105c,Strawberries,2025-04-16,75,383,5,False,False,False,True
+1e987549,Ground Beef,2025-05-08,90,307,27,False,False,True,False
+f3a4382c,Bananas,2025-04-30,57,298,19,False,False,False,True
+351d5839,Mushrooms,2025-04-22,97,457,11,False,False,False,True
+441c206f,Bananas,2025-04-21,31,315,10,False,False,False,True
+178bfc89,Lettuce,2025-05-10,87,353,29,False,False,False,True
+d7c0987b,Tomatoes,2025-04-13,85,455,2,False,False,False,True
+ae1134cc,Carrots,2025-05-01,95,89,20,False,False,False,True
+e9245f10,Milk,2025-05-06,16,263,25,False,True,False,False
+7291d751,Butter,2025-05-02,67,338,21,False,True,False,False
+9eaec6aa,Tomatoes,2025-05-01,21,163,20,False,False,False,True
+a6bf4e5d,Bananas,2025-04-15,11,52,4,False,False,False,True
+1d0d286b,Butter,2025-05-08,76,89,27,False,True,False,False
+8531568b,Bananas,2025-04-12,57,494,1,False,False,False,True
+8354aac9,Lettuce,2025-04-12,99,424,1,False,False,False,True
+aacb050b,Mushrooms,2025-04-13,10,331,2,False,False,False,True
+4cafa6e3,Ground Beef,2025-04-26,10,366,15,False,False,True,False
+d9931175,Cheese,2025-04-26,1,274,15,False,True,False,False
+a0d900ea,Butter,2025-04-21,12,446,10,False,True,False,False
+14aa0411,Cheese,2025-04-17,26,55,6,False,True,False,False
+a8b4029b,Chicken Breast,2025-04-17,85,500,6,False,False,True,False
+17dabd21,Butter,2025-04-19,57,54,8,False,True,False,False
+6d53e1c8,Bananas,2025-05-06,69,295,25,False,False,False,True
+ab2269c6,Butter,2025-05-03,17,257,22,False,True,False,False
+0d287c16,Oranges,2025-04-12,5,490,1,False,False,False,True
+bbf958df,Spinach,2025-04-26,4,493,15,False,False,False,True
+98fd3515,Bananas,2025-04-30,60,284,19,False,False,False,True
+9f21070e,Bread,2025-05-10,32,204,29,True,False,False,False
+b6cad25f,Blueberries,2025-05-01,8,497,20,False,False,False,True
+79a2a314,Milk,2025-04-23,24,303,12,False,True,False,False
+9bf59e65,Bread,2025-05-10,18,282,29,True,False,False,False
+f3a36a71,Mushrooms,2025-04-24,77,277,13,False,False,False,True
+8b717beb,Carrots,2025-04-26,8,75,15,False,False,False,True
+43f446be,Tomatoes,2025-04-11,72,205,0,False,False,False,True
+9785bff7,Cheese,2025-04-20,62,263,9,False,True,False,False
+d9d8c1ce,Carrots,2025-04-19,4,230,8,False,False,False,True
+61a8a90d,Onions,2025-04-23,19,293,12,False,False,False,True
+94a61d8d,Cheese,2025-04-15,69,136,4,False,True,False,False
+cd6f4ce4,Lettuce,2025-04-13,1,200,2,False,False,False,True
+8af91724,Potatoes,2025-04-25,65,221,14,False,False,False,True
+e72b93f9,Bananas,2025-05-10,74,388,29,False,False,False,True
+b7c11f15,Ground Beef,2025-04-19,58,276,8,False,False,True,False
+f94214e1,Ground Beef,2025-04-19,23,162,8,False,False,True,False
+9092a2da,Strawberries,2025-04-21,24,239,10,False,False,False,True
+66ee5599,Potatoes,2025-05-01,31,344,20,False,False,False,True
+df41410c,Yogurt,2025-05-08,19,62,27,False,True,False,False
+545d9705,Butter,2025-05-09,74,443,28,False,True,False,False
+0268ce60,Onions,2025-05-09,95,213,28,False,False,False,True
+9c9e5bab,Tomatoes,2025-04-12,48,311,1,False,False,False,True
+c4e6f5fa,Strawberries,2025-04-27,78,451,16,False,False,False,True
+30f55a95,Apples,2025-05-08,28,149,27,False,False,False,True
+b83712bd,Milk,2025-05-09,30,424,28,False,True,False,False
+bfdbf47f,Strawberries,2025-05-05,9,100,24,False,False,False,True
+430fb140,Spinach,2025-04-28,81,187,17,False,False,False,True
+bfe473c4,Apples,2025-05-06,17,330,25,False,False,False,True
+e4775bc9,Bread,2025-05-07,5,71,26,True,False,False,False
+1c67192c,Milk,2025-05-03,10,81,22,False,True,False,False
+841c4586,Mushrooms,2025-04-11,77,226,0,False,False,False,True
+19db0ee9,Carrots,2025-05-02,98,92,21,False,False,False,True
+9422bd7d,Carrots,2025-05-06,34,431,25,False,False,False,True
+3b39406c,Carrots,2025-04-17,68,163,6,False,False,False,True
+f5bd90ec,Butter,2025-04-18,65,126,7,False,True,False,False
+a496a035,Lettuce,2025-04-15,31,213,4,False,False,False,True
+7e790ff6,Cheese,2025-04-22,96,177,11,False,True,False,False
+0b04ee02,Blueberries,2025-04-17,48,410,6,False,False,False,True
+3364a7f9,Carrots,2025-05-08,97,343,27,False,False,False,True
+93840a1b,Bananas,2025-04-16,61,208,5,False,False,False,True
+f0a215ee,Milk,2025-04-29,22,351,18,False,True,False,False
+96a948ac,Strawberries,2025-05-10,84,467,29,False,False,False,True
+01d6d261,Lettuce,2025-04-27,74,260,16,False,False,False,True
+a123d29b,Carrots,2025-04-14,44,57,3,False,False,False,True
+945ba223,Apples,2025-05-03,23,65,22,False,False,False,True
+7099ef82,Milk,2025-04-23,70,67,12,False,True,False,False
+f9c5b668,Spinach,2025-05-03,34,64,22,False,False,False,True
+162f260b,Tomatoes,2025-04-19,64,413,8,False,False,False,True
+0f071a01,Potatoes,2025-05-08,11,423,27,False,False,False,True
+c0dd1665,Lettuce,2025-05-06,51,283,25,False,False,False,True
+33dc9535,Spinach,2025-04-23,84,344,12,False,False,False,True
+016ff618,Strawberries,2025-05-08,79,96,27,False,False,False,True
+5db70925,Mushrooms,2025-04-14,0,225,3,False,False,False,True
+3306c587,Onions,2025-05-05,82,218,24,False,False,False,True
+7aa2f7f3,Lettuce,2025-05-04,32,278,23,False,False,False,True
+4cd29807,Oranges,2025-04-24,56,473,13,False,False,False,True
+df02abc4,Oranges,2025-04-11,52,203,0,False,False,False,True
+20534c58,Carrots,2025-04-12,34,107,1,False,False,False,True
+65be38d9,Butter,2025-04-23,91,443,12,False,True,False,False
+bf908ece,Bread,2025-04-14,51,207,3,True,False,False,False
+011c6514,Blueberries,2025-04-29,80,192,18,False,False,False,True
+cf238cdb,Milk,2025-04-12,16,497,1,False,True,False,False
+be783a19,Potatoes,2025-04-21,50,462,10,False,False,False,True
+c78270d6,Potatoes,2025-05-01,77,151,20,False,False,False,True
+12024a35,Spinach,2025-04-15,77,86,4,False,False,False,True
+91dd3fc3,Carrots,2025-05-09,84,265,28,False,False,False,True
+7cf407c4,Ground Beef,2025-04-26,60,435,15,False,False,True,False
+6267a374,Chicken Breast,2025-04-14,99,98,3,False,False,True,False
+fc08234f,Carrots,2025-04-13,54,217,2,False,False,False,True
+337b301d,Blueberries,2025-05-07,94,63,26,False,False,False,True
+3bedb74b,Ground Beef,2025-05-07,15,111,26,False,False,True,False
+befe869f,Tomatoes,2025-05-03,85,141,22,False,False,False,True
+3c069278,Lettuce,2025-04-17,87,123,6,False,False,False,True
+a37b84b3,Milk,2025-04-28,94,297,17,False,True,False,False
+47b15784,Cheese,2025-04-29,59,450,18,False,True,False,False
+b754841d,Apples,2025-05-09,37,429,28,False,False,False,True
+dbf646c3,Onions,2025-05-07,65,149,26,False,False,False,True
+25c54522,Chicken Breast,2025-04-14,60,463,3,False,False,True,False
+31cb61a7,Butter,2025-04-27,20,279,16,False,True,False,False
+3903f4a6,Apples,2025-04-15,62,203,4,False,False,False,True
+fc9c0ea4,Butter,2025-05-02,51,92,21,False,True,False,False
+02e51db0,Mushrooms,2025-04-27,90,78,16,False,False,False,True
+33251bf7,Milk,2025-04-24,52,81,13,False,True,False,False
+e70d6728,Bread,2025-04-22,43,454,11,True,False,False,False
+43706c48,Apples,2025-05-03,58,313,22,False,False,False,True
+1f12cf5c,Yogurt,2025-04-11,29,121,0,False,True,False,False
+2c0a8b7d,Tomatoes,2025-04-16,46,131,5,False,False,False,True
+011304b2,Bread,2025-05-07,78,118,26,True,False,False,False
+b83cfb09,Milk,2025-04-29,70,222,18,False,True,False,False
+c6294b11,Chicken Breast,2025-04-28,86,255,17,False,False,True,False
+45ae5a3b,Bread,2025-04-12,52,190,1,True,False,False,False
+6a3c183b,Lettuce,2025-04-25,6,317,14,False,False,False,True
+6abec555,Chicken Breast,2025-05-03,53,165,22,False,False,True,False
+25506d76,Butter,2025-04-19,86,216,8,False,True,False,False
+5496cc9b,Spinach,2025-05-01,40,207,20,False,False,False,True
+078b1714,Potatoes,2025-05-05,2,408,24,False,False,False,True
+8ab5bac6,Blueberries,2025-05-01,28,207,20,False,False,False,True
+0ec74854,Milk,2025-04-28,19,257,17,False,True,False,False
+76dd6c51,Potatoes,2025-05-02,18,451,21,False,False,False,True
+a0ba3d9c,Onions,2025-04-26,28,274,15,False,False,False,True
+469b6a37,Chicken Breast,2025-04-13,69,128,2,False,False,True,False
+5b3158c0,Tomatoes,2025-05-08,31,137,27,False,False,False,True
+1b2b264e,Mushrooms,2025-04-14,76,57,3,False,False,False,True
+e7f85d34,Bread,2025-04-12,39,370,1,True,False,False,False
+a12b7054,Ground Beef,2025-05-08,41,138,27,False,False,True,False
+a5c1813f,Apples,2025-04-18,32,341,7,False,False,False,True
+0e994578,Oranges,2025-05-08,61,381,27,False,False,False,True
+ce2a3123,Lettuce,2025-04-25,21,66,14,False,False,False,True
+f2cf3adc,Butter,2025-04-30,96,131,19,False,True,False,False
+16b40517,Strawberries,2025-04-14,46,299,3,False,False,False,True
+5e67e296,Bananas,2025-05-01,91,360,20,False,False,False,True
+6d404c29,Bananas,2025-04-14,68,212,3,False,False,False,True
+084859f5,Bread,2025-04-11,21,498,0,True,False,False,False
+7c4f81f7,Butter,2025-04-16,81,442,5,False,True,False,False
+243921eb,Bread,2025-05-03,92,241,22,True,False,False,False
+8fb3ef2b,Apples,2025-05-07,97,120,26,False,False,False,True
+629cd477,Blueberries,2025-04-21,57,67,10,False,False,False,True
+e6f363ba,Oranges,2025-04-27,62,406,16,False,False,False,True
+7b4659c2,Ground Beef,2025-04-15,19,193,4,False,False,True,False
+d337349c,Yogurt,2025-05-02,11,313,21,False,True,False,False
+99d6ced6,Onions,2025-04-22,25,272,11,False,False,False,True
+e344793b,Spinach,2025-04-27,98,300,16,False,False,False,True
+f0f330bc,Strawberries,2025-05-03,8,166,22,False,False,False,True
+2a09aeff,Bananas,2025-04-21,66,177,10,False,False,False,True
+3944dd4d,Mushrooms,2025-04-26,54,55,15,False,False,False,True
+dc31c944,Bananas,2025-04-26,4,100,15,False,False,False,True
+803d5231,Apples,2025-04-16,56,387,5,False,False,False,True
+f94301fb,Oranges,2025-05-09,14,407,28,False,False,False,True
+f1243ac0,Carrots,2025-04-26,70,93,15,False,False,False,True
+34cdcefb,Onions,2025-04-26,67,141,15,False,False,False,True
+0b01b392,Strawberries,2025-04-14,92,243,3,False,False,False,True
+0aac0d1a,Strawberries,2025-04-25,59,177,14,False,False,False,True
+1a6824b7,Tomatoes,2025-05-05,27,104,24,False,False,False,True
+34b40290,Ground Beef,2025-04-11,72,139,0,False,False,True,False
+061f616d,Apples,2025-05-03,0,411,22,False,False,False,True
+25f197c6,Ground Beef,2025-05-10,49,350,29,False,False,True,False
+bdcef69b,Tomatoes,2025-04-22,42,483,11,False,False,False,True
+4a01d966,Spinach,2025-05-01,63,290,20,False,False,False,True
+087bd808,Bread,2025-05-05,47,342,24,True,False,False,False
+a5c1c477,Carrots,2025-05-07,15,113,26,False,False,False,True
+e3fa90a8,Lettuce,2025-04-23,56,448,12,False,False,False,True
+fd69858f,Mushrooms,2025-04-28,30,409,17,False,False,False,True
+30292566,Ground Beef,2025-04-15,26,390,4,False,False,True,False
+54c99b72,Blueberries,2025-05-02,18,467,21,False,False,False,True
+e628a4d7,Strawberries,2025-05-09,76,235,28,False,False,False,True
+c97447f3,Ground Beef,2025-05-03,57,72,22,False,False,True,False
+4f6f6497,Chicken Breast,2025-05-01,49,260,20,False,False,True,False
+71ad1d1a,Milk,2025-05-03,77,96,22,False,True,False,False
+ec2f76de,Chicken Breast,2025-05-09,20,477,28,False,False,True,False
+7d2c52ca,Bread,2025-04-19,58,263,8,True,False,False,False
+703837d4,Bread,2025-04-22,36,497,11,True,False,False,False
+28021e49,Strawberries,2025-05-04,73,500,23,False,False,False,True
+46844d98,Yogurt,2025-04-27,24,149,16,False,True,False,False
+f5da5b60,Bananas,2025-04-13,71,371,2,False,False,False,True
+7d7eaa8e,Spinach,2025-04-29,33,455,18,False,False,False,True
+f8ac7b57,Lettuce,2025-04-14,22,278,3,False,False,False,True
+65aa6fe0,Cheese,2025-04-27,79,280,16,False,True,False,False

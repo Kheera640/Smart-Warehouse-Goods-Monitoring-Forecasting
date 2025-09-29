@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+xgboost
+matplotlib
+flask
+python-dotenv
+joblib
